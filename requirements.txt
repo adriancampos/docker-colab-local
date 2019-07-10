@@ -183,7 +183,6 @@ mkl==2019.0
 mlxtend==0.14.0
 more-itertools==7.1.0
 moviepy==0.2.3.5
-mpi4py==3.0.2
 mpmath==1.1.0
 msgpack==0.5.6
 multiprocess==0.70.8
