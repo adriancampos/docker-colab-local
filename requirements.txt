@@ -81,7 +81,6 @@ featuretools==0.4.1
 filelock==3.0.12
 fix-yahoo-finance==0.0.22
 Flask==1.0.3
-folium==0.8.3
 future==0.16.0
 gast==0.2.2
 gdown==3.6.4
@@ -131,7 +130,6 @@ imageio==2.4.1
 imagesize==1.1.0
 imbalanced-learn==0.4.3
 imblearn==0.0
-imgaug==0.2.9
 importlib-metadata==0.18
 imutils==0.5.2
 inflect==2.1.0
@@ -239,7 +237,6 @@ prettytable==0.7.2
 progressbar2==3.38.0
 prometheus-client==0.7.1
 promise==2.2.1
-prompt-toolkit==1.0.16
 protobuf==3.7.1
 psutil==5.4.8
 psycopg2==2.7.6.1
