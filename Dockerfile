@@ -12,6 +12,6 @@ RUN pip install -r requirements.txt \
     && pip install jupyter_http_over_ws \
     && jupyter serverextension enable --py jupyter_http_over_ws
 
-EXPOSE 8888
+EXPOSE 8081
 
-CMD ["jupyter","notebook","--NotebookApp.allow_origin='https://colab.research.google.com'","--allow-root","--port","8888","--ip","0.0.0.0"]
+CMD ["jupyter","notebook","--NotebookApp.allow_origin='https://colab.research.google.com'","--allow-root","--port","8081","--NotebookApp.port_retries=0","--ip","0.0.0.0"]
