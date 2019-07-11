@@ -13,7 +13,6 @@ google-cloud-datastore==1.8.0
 google-cloud-language==1.2.0
 google-cloud-storage==1.16.1
 google-cloud-translate==1.5.0
-google-colab==1.0.0
 google-pasta==0.1.7
 google-resumable-media==0.3.2
 googleapis-common-protos==1.6.0
@@ -25,7 +24,7 @@ grpcio==1.15.0
 html5lib==1.0.1
 httpimport==0.5.16
 httplib2==0.11.3
-ipykernel==4.6.1
+ipykernel==5.1.1
 ipython==5.5.0
 ipython-genutils==0.2.0
 ipython-sql==0.3.9
