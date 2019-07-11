@@ -53,7 +53,7 @@ multiprocess==0.70.8
 multitasking==0.0.9
 nbconvert==5.5.0
 nbformat==4.4.0
-notebook==5.2.2
+notebook==5.7.5
 np-utils==0.5.10.0
 numba==0.40.1
 numexpr==2.6.9
