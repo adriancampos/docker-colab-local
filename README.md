@@ -1,4 +1,5 @@
 # docker-colab-local
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/aecampos/colab-local.svg?label=build)](https://hub.docker.com/r/aecampos/colab-local)
 
 A Docker container to act as a local runtime for [Google Colab](https://colab.research.google.com).
 
