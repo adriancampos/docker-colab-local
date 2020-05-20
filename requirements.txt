@@ -23,7 +23,7 @@ greenlet==0.4.15
 grpcio==1.15.0
 html5lib==1.0.1
 httpimport==0.5.16
-httplib2==0.11.3
+httplib2==0.18.0
 ipykernel==5.1.1
 ipython==5.5.0
 ipython-genutils==0.2.0
