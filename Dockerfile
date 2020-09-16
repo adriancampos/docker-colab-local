@@ -31,7 +31,7 @@ WORKDIR /opt/colab
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt \
-    && pip install jupyter_http_over_ws \
+    && pip install jupyter_http_over_ws>=0.0.7 \
     && jupyter serverextension enable --py jupyter_http_over_ws
 
 EXPOSE 8081
