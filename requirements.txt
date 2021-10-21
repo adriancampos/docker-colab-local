@@ -1,5 +1,5 @@
 autograd==1.2
-Babel==2.7.0
+Babel==2.9.1
 glob2==0.7
 google==2.0.2
 google-api-core==1.13.0
