@@ -83,7 +83,7 @@ prettytable==0.7.2
 progressbar2==3.38.0
 prometheus-client==0.7.1
 promise==2.2.1
-protobuf==3.7.1
+protobuf==3.18.3
 PySocks==1.7.0
 pystan==2.19.0.0
 pytest==3.6.4
