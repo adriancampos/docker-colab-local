@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.0-base-ubuntu18.04
+FROM nvidia/cuda:12.1.0-base-ubuntu20.04
 
 MAINTAINER Adrian Campos "https://github.com/adriancampos"
 
